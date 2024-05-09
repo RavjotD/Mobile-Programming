@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="my_journal">My Journal</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click To Login</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="logout">Logout</string>
+    <string name="Welcome">Welcome</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="create_new_journal_entry">New Journal Entry</string>
+    <string name="add_journal">Add Journal</string>
+    <string name="journal_here">Journal Here</string>
+    <string name="submit">Submit</string>
+    <string name="enter_journal_title">Enter Journal Title</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>

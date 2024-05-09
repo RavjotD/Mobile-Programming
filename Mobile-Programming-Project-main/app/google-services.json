@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655984206223",
+    "project_id": "mobile-programming-proje-3247a",
+    "storage_bucket": "mobile-programming-proje-3247a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655984206223:android:1ccb82eafb03561cf8abfa",
+        "android_client_info": {
+          "package_name": "com.example.mobileprogrammingproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1m3bJ0ARt7l4F6m-NpDyZKvMCOFt0H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
