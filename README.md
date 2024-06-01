@@ -1,4 +1,11 @@
-This is Android Studio Application project that was completed through a group project for one of my courses. 
-In a Team of 3, my members and I utilized the skills we discovered to execute a full-stack Journaling application using Firebase as our database.
+This is Android Studio Application project that was completed through a group one of my courses. 
+I utilized the skills we discovered in Android Studio to execute a full-stack Journaling application using Firebase as our database.
 This application requires users to Sign up and Login, in order to use the application. 
 Users are free to create Jourunal entries that get stored within the database system and full accessibility for edits and deletions.
+
+
+
+
+
+https://github.com/RavjotD/Mobile-Programming/assets/154561313/350f77fa-6c18-44ea-9972-c9ac14cc8e52
+
