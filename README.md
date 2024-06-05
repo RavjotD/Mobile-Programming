@@ -1,6 +1,6 @@
-This is Android Studio Application project that was completed through one of my courses. 
-I utilized the skills we discovered in Android Studio to execute a full-stack Journaling application using Firebase as our database.
-This application requires users to Sign up and Login, in order to use the application. 
+This Android Studio application project was completed through one of my courses. 
+I utilized the skills we discovered in Android Studio to execute a full-stack Journaling application using Firebase as our back-end source.
+This application requires users to Sign up and Login in order to use the application. 
 Users are free to create Journal entries that get stored within the database system. Interact with accessibility features for edits and deletions of personal information and entries.
 
 
